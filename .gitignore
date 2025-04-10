@@ -173,3 +173,6 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+
+#训练脚本
+train.py
